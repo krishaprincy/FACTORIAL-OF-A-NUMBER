@@ -54,10 +54,8 @@ OUTPUT
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/76c29d1a-91cb-420d-9ace-6469e209ea77" />
 ---
 MANUAL CALCULATIONS
-![WhatsApp Image 2025-09-25 at 11 10 48_686e1121](https://github.com/user-attachments/assets/664e6ee9-d939-4f69-8092-527508841585)
 
-
-
+![WhatsApp Image 2025-09-25 at 11 10 48_686e1121](https://github.com/user-attachments/assets/47475f53-77ef-4571-994e-dea2bef6dc21)
 ---
 
 RESULT
