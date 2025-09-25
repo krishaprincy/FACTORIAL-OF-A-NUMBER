@@ -5,12 +5,10 @@
 To write and execute an Assembly language program to perform the factorial of a number using 8051 Keil.
 
 ---
-
 ## APPARATUS REQUIRED
 - Personal computer with Keil software
 
 ---
-
 ## ALGORITHM
 1. **Start**
 2. **Input**: Read the number `n`.
@@ -27,7 +25,6 @@ To write and execute an Assembly language program to perform the factorial of a 
 
 ## FLOWCHART
 <img width="506" height="525" alt="image" src="https://github.com/user-attachments/assets/f3b47187-6f0f-490c-8704-f2973cb2b276" />
-
 
 ---
 
@@ -55,10 +52,8 @@ END
 OUTPUT
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/76c29d1a-91cb-420d-9ace-6469e209ea77" />
-
 ---
 MANUAL CALCULATIONS
-
 ![WhatsApp Image 2025-09-25 at 11 10 48_686e1121](https://github.com/user-attachments/assets/664e6ee9-d939-4f69-8092-527508841585)
 
 
