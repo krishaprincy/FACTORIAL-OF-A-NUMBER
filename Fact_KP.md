@@ -51,8 +51,9 @@ END
 ```
 OUTPUT
 
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/76c29d1a-91cb-420d-9ace-6469e209ea77" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/55b353f9-89d4-4ad5-ae11-cdc44fe78cb6" />
 ---
+
 MANUAL CALCULATIONS
 
 ![WhatsApp Image 2025-09-25 at 11 10 48_686e1121](https://github.com/user-attachments/assets/47475f53-77ef-4571-994e-dea2bef6dc21)
