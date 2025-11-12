@@ -59,6 +59,8 @@ OUTPUT
 ---
 MANUAL CALCULATIONS
 
+![WhatsApp Image 2025-11-12 at 11 50 27_ce90a301](https://github.com/user-attachments/assets/e2f64c8b-56da-4e9b-b498-b52b7c3456b6)
+
 ---
 
 RESULT
